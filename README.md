@@ -21,7 +21,9 @@ There are some kaldi models available for download. I have tested my setup with 
 Install docker
 --------------
 
-Please, refer to https://docs.docker.com/engine/installation/.
+Please, refer to https://docs.docker.com/engine/installation/linux/ubuntulinux/
+
+`sudo usermod -aG docker ubuntu`
 
 
 Get the image
